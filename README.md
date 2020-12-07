@@ -19,3 +19,7 @@ It is a react app made using class components. For styling I have used Bootstrap
 Clone the repo and then go to the repo directory.   
 npm i  
 npm start  
+
+## Demo Link
+
+https://shoppingcartdemo.netlify.app/
